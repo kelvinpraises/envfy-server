@@ -1,9 +1,11 @@
-<h1 align="center">Welcome to Envfy 👋</h1>
+<h1 align="center">Welcome to Envfy Server 👋</h1>
 
 
 Server for [Envfy](https://github.com/kelvinpraises/envfy) runs on Firebase
 
 This project is currently experimental which aims to check if envirionmental social good can be funded through crowd participation and carried out by willing teams around the world. This uses IPFS and Ceramic Models for data storage.
+
+## Data models created
 
 <details open>
 <summary>EnvfyProtocolState.json</summary>
